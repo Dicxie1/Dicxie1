@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Postgres](https://img.shields.io/badge/PostgreSQL-0088CC?style=for-the-badge&logo=postgreSQL&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-
+[![LIBREOFFICE](https://camo.githubusercontent.com/9f80565698eaa05be5b877119da319aa4a88e0a834c9f9283b11f3d699be8eb6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696272654f666669636526636f6c6f723d313841333033266c6f676f3d4c696272654f6666696365266c6f676f436f6c6f723d464646464646266c6162656c3d)]()
 <p align="center">
 <a href="https://github.com/Dicxie1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dicxie1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
