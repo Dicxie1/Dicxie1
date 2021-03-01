@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 [![Postgres](https://img.shields.io/badge/PostgreSQL-0088CC?style=for-the-badge&logo=postgreSQL&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+
+<p align="center">
+<a href="https://github.com/Dicxie1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dicxie1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dicxie1&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
