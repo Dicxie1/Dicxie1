@@ -1,5 +1,11 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
+## Skill
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-0071BC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
