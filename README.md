@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 
 ## Skill
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Flutter](https://img.shields.io/badge/MariaDB-0095D5?style=for-the-badge&logo=MariaDB&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudio-Code-0071BC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
-
-
+[![Node.JS](https://img.shields.io/badge/Node-JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/PostgreSQL-0088CC?style=for-the-badge&logo=postgreSQL&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-yellow?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
